@@ -8,7 +8,6 @@ export default function Header () {
             <div className={headerStyle.box}>
                 <div className={headerStyle.headBox}>
                     <h1 className={headerStyle.headText}>EaCamp Avto.az</h1>
-                    <img src=""/>
                 </div>
                 <Link className={headerStyle.head}>
                     <NavLink to="/pages/about" className={headerStyle.link}>About</NavLink>

@@ -33,14 +33,14 @@ export default function SingleAdvert() {
                     <h2>{singleAdvert.qiymet}</h2>
                     <h2>{singleAdvert.valyuta}</h2>
                 </div>
-                <div>
+                <div className={singleStyle.text}>
                     <h3>{singleAdvert.carName}</h3>
                     <p>Yenidirmi: {singleAdvert.yenidirmi ? 'Beli' : 'Xeyr'}</p>
                     <p>Yurus: {singleAdvert.yurus}km</p>
                     <p>Şəhər: {singleAdvert.city}</p>
                     <p>Rəngi: {singleAdvert.rengi}</p>
                     <p>Ili: {singleAdvert.ili}</p>
-                    <p>Mator: {singleAdvert.mator}</p>
+                    <p>Mator: {singleAdvert.mator}L</p>
                     <p>Sürətlər Qutusu: {singleAdvert.suretlerQutusu}</p>
                     <div className={singleStyle.carHaqqinda}>
                         <h4>Sürücünün əlavələri:</h4>

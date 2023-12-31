@@ -1,7 +1,7 @@
 export default function About () {
     return (
         <>
-            <h2>Haqqimizda</h2>
+            <h2 style={{marginBottom:'85vh'}}>Haqqimizda</h2>
         </>
     );
 }
