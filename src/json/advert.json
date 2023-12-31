@@ -1,0 +1,26 @@
+[
+    {
+        "id":"34-23",
+        "poster":"https://www.autobaku.az/files/07-2022/ad64897/vaz-805691964_large.jpeg",
+        "qiymet":14500,
+        "valyuta":"AZN",
+        "yenidir":false,
+        "yurus":20000
+    },
+    {
+        "id":2,
+        "poster":"https://www.autobaku.az/files/12-2023/ad269891/hyundai-tucson-2013379538.jpeg",
+        "qiymet":7000,
+        "valyuta":"AZN",
+        "yenidir":true,
+        "yurus":80000
+    },
+    {
+        "id":3,
+        "poster":"https://www.autobaku.az/files/12-2023/ad269814/mercedes-e-class-84110511.jpeg",
+        "qiymet":9500,
+        "valyuta":"AZN",
+        "yenidir":false,
+        "yurus":70000
+    }
+]
