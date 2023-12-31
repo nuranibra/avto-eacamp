@@ -9,6 +9,13 @@
 
 .valyuta{
     display: flex;
+    font-size:30px;
+    border:1px solid #fff;
+    width: 50%;
+    justify-content: center;
+    border-radius:15px;
+    background-color: #a00000;
+    color:#fff;
 }
 
 .carHaqqinda{
