@@ -115,7 +115,9 @@ export default function ElaveEt () {
                                 <option value={'Avtomat'}>Avtomat</option>
                             </Field>
                         </div>
-                        <button type="submit">Add</button>
+                        <div className={elaveStyle.btnBox}>
+                            <button type="submit" className={elaveStyle.btn}>Add</button>
+                        </div>
                     </Form>
                 </Formik>
             </div>
