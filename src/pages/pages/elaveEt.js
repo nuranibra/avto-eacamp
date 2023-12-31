@@ -113,6 +113,7 @@ export default function ElaveEt () {
                             <Field name='suretlerQutusu' id='suretlerQutusu' as='select' >
                                 <option value={'Mexanika'}>Mexanika</option>
                                 <option value={'Avtomat'}>Avtomat</option>
+                                <option value={'Variator'}>Variator</option>
                             </Field>
                         </div>
                         <div className={elaveStyle.btnBox}>
