@@ -16,7 +16,7 @@ export default function ShortAdvert () {
             arr?.push(<a href={`/advert/${advert?.id}`} className={advertStyle.link}>
                 <div className={advertStyle.advert}>
                     {advert.yenidirmi ? <div className={advertStyle.new}>
-                        New
+                        Salon
                     </div> : ''}
                     <img src={advert.url} alt={`car-${advert.id}`} className={advertStyle.url}/>
                     <div className={advertStyle.qiymetBox}>
