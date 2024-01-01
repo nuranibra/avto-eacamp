@@ -1,5 +1,6 @@
 import Header from "./components/header";
 import ShortAdvert from "./components/shortAdvert";
+import './index.css'
 
 export default function App () {
   return (
